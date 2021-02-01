@@ -1,7 +1,20 @@
 html {
-    background-color: navy;
+    background-color: rgb(8, 52, 88);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white
+}
+
+nav {
+    background-color: seashell;
+    height: 50px;
+}
+
+nav a {
+    color: skyblue
+}
+
+nav a:visited {
+    color: darkcyan
 }
 
 h1 {
