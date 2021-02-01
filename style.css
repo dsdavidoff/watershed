@@ -4,18 +4,27 @@ html {
     color: white
 }
 
-header {
-    font-size: large;
+h1 {
+    font-size: 24;
 }
 
-h1 {
-    font-size: medium;
+h2 {
+    font-size: 18;
+}
+
+img {
+    height: 400px;
+    width: 400px;
 }
 
 p {
-    font-size: small;
+    font-size: 12;
 }
 
 a {
     color: seagreen
+}
+
+footer {
+    font-size: 8;
 }
