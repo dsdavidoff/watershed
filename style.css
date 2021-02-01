@@ -1,3 +1,17 @@
 html {
-    background-color: aqua;
+    background-color: navy;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white
+}
+
+header {
+    font-size: large;
+}
+
+h1 {
+    font-size: medium;
+}
+
+p {
+    font-size: small;
 }
